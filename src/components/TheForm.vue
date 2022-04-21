@@ -102,6 +102,11 @@
       </div>
     </div>
     <div class="form-control">
+      <label>How do you rate your overall experience?</label>
+      <br />
+      <label>
+        <small>(Please scroll to view all available options)</small>
+      </label>
       <rate-control v-model="score"></rate-control>
     </div>
     <div class="form-control">
