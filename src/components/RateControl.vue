@@ -46,6 +46,7 @@ ul {
   margin: 0.5rem 0;
   padding: 0;
   display: flex;
+  overflow: auto;
 }
 li {
   display: flex;
